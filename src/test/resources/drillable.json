@@ -1,0 +1,20 @@
+{
+    "id" : "TijNGUahfqlxZJ9uvNFr2Q",
+    "name" : "Winnaars Tour de France",
+    "subject" : "Sport",
+    "type" : "DRILL",
+    "size" : 44,
+    "description" : "De officiële winnaars van het algemeen klassement van de Tour de France, van 1970 t/m 2013.",
+    "practice" : {
+      "proficiency" : {
+        "receptive" : 22,
+        "productive" : 22,
+        "overall" : 22
+      }
+    },
+    "icon" : {
+      "type" : "image/jpeg",
+      "url" : "https://www.drillster.com/drillicon/TijNGUahfqlxZJ9uvNFr2Q.hAji"
+    },
+    "version" : "hAji"
+}
