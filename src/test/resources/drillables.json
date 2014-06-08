@@ -1,0 +1,127 @@
+{
+"total" : 7,
+ "drills" : [ {
+  "id" : "-H7gNyypBMfcdAovFa7UlQ",
+     "name" : "Drill zonder instellingen",
+     "subject" : "Test",
+     "type" : "DRILL",
+     "size" : 5,
+     "description" : "Dit is een drill waar niets valt in te stellen",
+     "practice" : {
+       "proficiency" : {
+         "overall" : 6
+       }
+     },
+     "icon" : {
+       "type" : "image/png",
+       "url" : "https://www.drillster.com/drillicon/-H7gNyypBMfcdAovFa7UlQ.cARV"
+     },
+     "version" : "cARV"
+   }, {
+     "id" : "bMLT_gX0DFpI65VMtswyxg",
+     "name" : "Drill met instellingen",
+     "subject" : "Test",
+     "type" : "DRILL",
+     "size" : 5,
+     "description" : "Dit is een drill waar alles valt in te stellen",
+     "practice" : {
+       "proficiency" : {
+         "receptive" : 0,
+         "productive" : 0,
+         "overall" : 0
+       }
+     },
+     "icon" : {
+       "type" : "image/png",
+       "url" : "https://www.drillster.com/drillicon/bMLT_gX0DFpI65VMtswyxg.n2d6"
+     },
+     "version" : "n2d6"
+   }, {
+     "id" : "Ze6LAHi7XsIK0UWIyQkm_w",
+     "name" : "Lernliste Neue Kontakte, Kapittel I",
+     "subject" : "Duits",
+     "type" : "DRILL",
+     "size" : 52,
+     "description" : "Lernliste Neue Kontakte, Noordhoff, 4 en 5 Havo",
+     "practice" : {
+       "proficiency" : {
+         "receptive" : 19,
+         "productive" : 70,
+         "overall" : 44
+       }
+     },
+     "icon" : {
+       "type" : "image/png",
+       "url" : "https://www.drillster.com/drillicon/Ze6LAHi7XsIK0UWIyQkm_w.Y8GV"
+     },
+     "version" : "Y8GV"
+   }, {
+     "id" : "tr6ilEurTSCL6jQmhd-dSg",
+     "name" : "Simpele test",
+     "subject" : "Test",
+     "type" : "DRILL",
+     "size" : 5,
+     "description" : "Een simpele test-drill om het behalen van 100% gemakkelijk te testen.",
+     "practice" : {
+       "proficiency" : {
+         "overall" : 100
+       }
+     },
+     "icon" : {
+       "type" : "image/png",
+       "url" : "https://www.drillster.com/drillicon/tr6ilEurTSCL6jQmhd-dSg.6P6I"
+     },
+     "version" : "6P6I"
+   }, {
+     "id" : "WJum6nnSRX-yDgpDngXo4w",
+     "name" : "Example drill: what is Drillster?",
+     "subject" : "Drillster - adaptive and interactive learning",
+     "type" : "DRILL",
+     "size" : 12,
+     "description" : "In this example drill we show you how Drillster functions. Adaptive online and mobile learning that results in easy learning and better retention. Questions that are incorrectly answered are repeated more frequently than questions that you answered correctly. This way you learn more in less time.",
+     "practice" : {
+       "proficiency" : {
+         "overall" : 55
+       }
+     },
+     "icon" : {
+       "type" : "image/png",
+       "url" : "https://www.drillster.com/drillicon/WJum6nnSRX-yDgpDngXo4w.GA0m"
+     },
+     "version" : "GA0m"
+   }, {
+     "id" : "KPQJmzqkRdujvkmc5f4SLg",
+     "name" : "Morse Code Alphabet Lesson 8",
+     "subject" : "Morse Code Familiarization",
+     "type" : "DRILL",
+     "size" : 8,
+     "description" : "Lesson adds the letter T.",
+     "practice" : {
+       "proficiency" : {
+         "overall" : 0
+       }
+     },
+     "icon" : {
+       "type" : "image/png",
+       "url" : "https://www.drillster.com/drillicon/KPQJmzqkRdujvkmc5f4SLg.9Eio"
+     },
+     "version" : "9Eio"
+   }, {
+     "id" : "6qQvEHjg3ftpaREq4gZyHA",
+     "name" : "Test meerdere kolommen",
+     "subject" : "Test",
+     "type" : "DRILL",
+     "size" : 10,
+     "description" : "Een test met meerdere kolommen.",
+     "practice" : {
+       "proficiency" : {
+         "overall" : 0
+       }
+     },
+     "icon" : {
+       "type" : "image/png",
+       "url" : "https://www.drillster.com/drillicon/6qQvEHjg3ftpaREq4gZyHA.rg6a"
+     },
+     "version" : "rg6a"
+   } ]
+ }
